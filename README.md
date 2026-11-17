@@ -6,7 +6,7 @@ Java(2000年頃〜2026年のフレームワーク)のプロジェクトを**自�
 *Detects the Java framework(s) of a project (c. 2000–2026) and converts it to FastAPI, MFastAPI, Poem or RPoem.*
 
 - Repository: https://github.com/aon-co-jp/Java_to / License: MIT
-- 兄弟 / Siblings: [COBOL_to](https://github.com/aon-co-jp/COBOL_to), [2FastAPI](https://github.com/aon-co-jp/2FastAPI), [2MFastAPI](https://github.com/aon-co-jp/2MFastAPI), [2Poem](https://github.com/aon-co-jp/2Poem); 統合構想 / unification plan: [pg2pg](https://github.com/aon-co-jp/pg2pg)
+- 兄弟 / Siblings: [COBOL_to](https://github.com/aon-co-jp/COBOL_to), [2FastAPI](https://github.com/aon-co-jp/2FastAPI), [2MFastAPI](https://github.com/aon-co-jp/2MFastAPI), [2Poem](https://github.com/aon-co-jp/2Poem); 統合構想 / unification plan: [pl2pl](https://github.com/aon-co-jp/pl2pl)
 
 ## 日本語
 ### 使い方
